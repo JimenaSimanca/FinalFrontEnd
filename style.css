@@ -10,7 +10,7 @@
 }
 body{
     width: 100%;
-    background-image: url(/img/background-body);
+    background-image: url(background-body);
     background-position: top;
     background-repeat: no-repeat;
 }
@@ -168,7 +168,7 @@ main{
 }
 
 .subtitle2::before {
-    content: url(/img/li-01.jpeg);
+    content: url(li-01.jpeg);
     padding-right: 2rem;
     position: relative;
     left: 20px;
@@ -176,7 +176,7 @@ main{
 }
 
 .subtitle3::before {
-    content: url(/img/li-02.jpeg);
+    content: url(li-02.jpeg);
     padding-right: 2rem;
     position: relative;
     left: 20px;
@@ -184,7 +184,7 @@ main{
 }
 
 .subtitle4::before {
-    content: url(/img/li-03.jpeg);
+    content: url(li-03.jpeg);
     padding-right: 2rem;
     position: relative;
     left: 20px;
@@ -349,7 +349,7 @@ main{
     justify-content: space-around;
     align-items: center;
     margin-top: 192px;
-    background-image: url(/img/bg-simplify-section-desktop.svg);
+    background-image: url(bg-simplify-section-desktop.svg);
     background-size: 115vw;
     background-position: 11vw -22vh ;
 }
@@ -498,7 +498,7 @@ span{
 body{
     display: flex;
     flex-direction: column;
-    background-image: url(/img/background-mobile.png);
+    background-image: url(background-mobile.png);
     background-repeat: no-repeat;
     background-position:top;
     background-position-x: right;
@@ -671,7 +671,7 @@ body{
     background-color:#F3613C;
     justify-content: center;
     align-items: center;
-    background-image: url(/img/background-prefooter-mobile.png);
+    background-image: url(background-prefooter-mobile.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: -50px;
